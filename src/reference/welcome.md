@@ -3,8 +3,7 @@
 >!H Looking for a tutorial? See
 >!H [“Compile and Run Your First Program”](../guides/compile-and-run.html).
 
-Emojicode is a language that aims to provide the most modern and powerful
-features to make it easy, fast and fun to write programs. These powerful
+Emojicode is a language that aims to provide the most modern and powerful features to make it easy, fast and fun to write programs. These powerful
 features include classes, optionals, which can handle the absence of a value,
 generics, closures and much more.
 
